@@ -1,4 +1,4 @@
- /*
+/* 
 1. add event listener to the case plus button
 2. get the value inside the case number field (input field)
 3. convert the number to an integer
